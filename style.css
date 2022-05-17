@@ -1,0 +1,34 @@
+.game-card {
+    height: 100vh;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+
+#btnRetry {
+    color: brown;
+    text-decoration-line: underline;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.card-footer {
+    background-color: rgb(212, 182, 182);
+}
+
+.card-header {
+    background-color: rgb(212, 182, 182);
+    color: brown;
+    font-weight: 700;
+    font-size: larger;
+}
+
+#btnLess {
+    background-color: darksalmon;
+}
+
+#btnOver {
+    background-color: darksalmon
+}
+
+#btnEqual {
+    background-color: brown;
+}
